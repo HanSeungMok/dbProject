@@ -9,3 +9,6 @@ create table detp (
 );
 
 insert into dept values(001, 기획부, 홍길동);
+insert into dept values(004, 경리부, 김성경);
+
+select * from dept;
